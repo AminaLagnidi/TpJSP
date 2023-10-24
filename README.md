@@ -1,4 +1,6 @@
-"# TpJSP"   
+"# TpJSP"  
+![image](https://github.com/AminaLagnidi/TpJSP/assets/146132357/838973f0-6079-4187-908a-4fe18b289fcd)
+
 L'interface de GMachines  
 ![image](https://github.com/AminaLagnidi/TpJSP/assets/146132357/4acb6f3a-d613-4a90-b58e-6bbbe8bce5ed)
 
